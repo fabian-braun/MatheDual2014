@@ -1,0 +1,7 @@
+# Kommentarzeile, Zeilen, die mit # beginnen werden ignoriert
+# Die folgenden Angaben entsprechen 2 x 1, 1 x 2 und 1 x 3.
+# Falls eine Quadratgröße nicht vorhanden ist, wird eine 0 angegeben.
+# Das Format  beinhaltet KEINE Leerzeilen.
+2
+1
+1
